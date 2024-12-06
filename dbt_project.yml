@@ -41,6 +41,8 @@ models:
 
     dim:
       +materialized: table
+vars:
+  user_name: "suresh"
 
 
 
